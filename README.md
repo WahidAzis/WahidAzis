@@ -1,9 +1,24 @@
+![Head](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Wahid Abdul Azis</h1>
-<h3 align="center">A passionate as a QA Engineer from Indonesia</h3>
+<h3 align="center">Passionate as a QA Engineer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" height="280" src="https://cdn-images-1.medium.com/v2/resize:fit:1600/0*-u0b7K0Q6zfBcQqT.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidazis&label=Profile%20views&color=0e40b4&style=plastic" alt="wahidazis" /> </p>
 
+- 🔭 I’m currently working as **IT Support**
+
+- 🌱 I’m currently learning **Selenium and Katalon Studio**
+
+- 👨‍💻 All of my projects are available at [https://github.com/WahidAzis](https://github.com/WahidAzis)
+
+- 💬 Ask me about **Computer Problem Solving, Network Support, Hardware & Software**
+
 - 📫 How to reach me **wahidazis1st@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/wahid-azis-1st/](https://www.linkedin.com/in/wahid-azis-1st/)
+
+- ⚡ Fun fact **Cat Lover, Martial Arts, Gamers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
