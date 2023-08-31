@@ -33,8 +33,8 @@
 <br/>
 <div align="left">
 <a href="https://github.com/wahidazis">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahidazis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahidazis&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=wahidazis&theme=algolia" alt="wahidazis"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahidazis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahidazis&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150cm" src="https://github-readme-streak-stats.herokuapp.com/?user=wahidazis&theme=algolia" alt="wahidazis"/>
 </a>
 </div> 
